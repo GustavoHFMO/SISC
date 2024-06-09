@@ -15,19 +15,23 @@ pip install -r requirements.txt
 python Main.py
 ```
 
-1. The module [generate_synthetic_series.py](https://github.com/GustavoHFMO/SISC/blob/main/generate_synthetic_series.py) explains how to generate the synthetic series used in the work.
+1. The module [generate_synthetic_series.py](https://github.com/GustavoHFMO/SISC/blob/main/generate_synthetic_series.py) explains how to generate the synthetic series used in the work. Result:
 
-1.1. ## Result
 ![](https://github.com/GustavoHFMO/SISC/blob/main/images/time_series_generation.png)
 
 
-2. The module [run_regressors.py](https://github.com/GustavoHFMO/SISC/blob/main/run_regressors.py) shows how to run the following regressors trained by swarm algorithms: `IDPSO+ELM`, `PSO+ELM` and `PSO+MLP`.
+2. The module [run_regressors.py](https://github.com/GustavoHFMO/SISC/blob/main/run_regressors.py) shows how to run the following regressors trained by swarm algorithms: `IDPSO+ELM`, `PSO+ELM` and `PSO+MLP`. Result:
 
-2.2. ## Result
 ![](https://github.com/GustavoHFMO/SISC/blob/main/images/Regressors_prediction.png)
 
 
 3. The module [run_online_algorithms.py](https://github.com/GustavoHFMO/SISC/blob/main/run_online_algorithms.py) explain how to executes the algorithms described below in real and synthetic time series.
+
+## [SISC-P](https://github.com/GustavoHFMO/SISC/blob/main/algoritmos_online/SISC_P.py)
+> Proposed in the master dissertation.
+
+## [SISC-M](https://github.com/GustavoHFMO/SISC/blob/main/algoritmos_online/SISC_M.py)
+> Proposed in the master dissertation.
 
 ## [IDPSO-ELM-S:](https://github.com/GustavoHFMO/SISC/blob/master/algoritmos_online/IDPSO_ELM_S.py)
 > OLIVEIRA, Gustavo HFMO et al. Time series forecasting in the presence of concept drift: A pso-based approach. In: 2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI). IEEE, 2017. p. 239-246.
@@ -47,7 +51,6 @@ python Main.py
 ## [RPSO-ELM:](https://github.com/GustavoHFMO/SISC/blob/main/algoritmos_online/RPSO_ELM.py)
 > RAKITIANSKAIA, A. S.; ENGELBRECHT, A. P. Training feedforward neural networks with dynamic particle swarm optimisation. Swarm Intelligence, Springer, v. 6, n. 3, p. 233–270, 2012. 
 
-3.1. ## Result
 ![](https://github.com/GustavoHFMO/SISC/blob/main/images/SISC_P_execution.png)
 
 ## License
