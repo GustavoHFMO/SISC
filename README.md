@@ -11,8 +11,10 @@ cd SISC
 # Installing the dependencies
 pip install -r requirements.txt
 
-# Running the code
-python Main.py
+# Running the codes (Description bellow)
+python generate_synthetic_series.py
+python run_regressors.py
+python run_online_algorithms.py
 ```
 
 1. The module [generate_synthetic_series.py](https://github.com/GustavoHFMO/SISC/blob/main/generate_synthetic_series.py) explains how to generate the synthetic series used in the work. Result:
