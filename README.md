@@ -1,4 +1,4 @@
-# Previsão de séries temporais na presença de mudança de conceito: uma abordagem baseada em PSO 
+#  Dynamic Swarm Intelligence for Time Series Forecasting in the Presence of Concept Drift
 
 ## Usage
 ```
