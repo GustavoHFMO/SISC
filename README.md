@@ -1,4 +1,5 @@
 #  Dynamic Swarm Intelligence for Time Series Forecasting in the Presence of Concept Drift
+# [DOI](https://doi.org/10.1007/s42979-025-04247-z)
 
 ## Usage
 ```
