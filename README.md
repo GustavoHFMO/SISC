@@ -1,5 +1,20 @@
 #  Dynamic Swarm Intelligence for Time Series Forecasting in the Presence of Concept Drift [[DOI]](https://doi.org/10.1007/s42979-025-04247-z)
 
+## 📄 Paper
+[SISC (SN Computer Science 2025)](https://github.com/GustavoHFMO/SISC/blob/main/10.%20Dynamic%20swarm%20intelligence.pdf)
+
+## Problem
+Time series forecasting methods do not effectively handle concept drift, especially with delayed adaptation.
+
+## Contribution
+- First use of dynamic swarm intelligence for concept drift in time series forecasting.
+- Proposed multi-model drift detection using swarm behavior.
+- Introduced reuse of past swarm models for faster adaptation to recurring concepts.
+
+## Results
+- Competitive forecasting performance across datasets.
+- Improved drift detection and reduced adaptation delay.
+
 ## Usage
 ```
 # Cloning the repository
