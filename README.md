@@ -3,6 +3,8 @@
 ## 📄 Paper
 [SISC (SN Computer Science 2025)](https://github.com/GustavoHFMO/SISC/blob/main/10.%20Dynamic%20swarm%20intelligence.pdf)
 
+> OLIVEIRA, Gustavo HFM et al. Dynamic Swarm Intelligence for Time Series Forecasting in the Presence of Concept Drift. SN Computer Science, 2025.
+
 ## Problem
 Time series forecasting methods do not effectively handle concept drift, especially with delayed adaptation.
 
